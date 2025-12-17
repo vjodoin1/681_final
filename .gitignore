@@ -1,0 +1,21 @@
+# MATLAB temporary files
+*.asv
+*.m~
+*.mex*
+*.autosave
+
+# MATLAB build files
+*.slxc
+slprj/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Editor backups
+*~
+*.swp
+*.swo
